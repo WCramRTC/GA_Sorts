@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GA_Sorts", "GA_Sorts.csproj", "{433E6045-7597-48A6-812B-215D06E2050D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{433E6045-7597-48A6-812B-215D06E2050D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433E6045-7597-48A6-812B-215D06E2050D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433E6045-7597-48A6-812B-215D06E2050D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433E6045-7597-48A6-812B-215D06E2050D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30BEC4E3-98D4-4649-8770-22B0C36B778F}
+	EndGlobalSection
+EndGlobal
